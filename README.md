@@ -1,3 +1,5 @@
+(_cloned from https://github.com/vertigobr/ethereum.git_)
+
 Ethereum playground
 ==========
 
